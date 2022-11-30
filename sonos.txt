@@ -1,0 +1,8 @@
+# Sonos
+msmetrics.ws.sonos.com
+tunein.ws.sonos.com
+sonos-logo.ws.sonos.com
+system-api.sonos.com
+in-app.ws.sonos.com
+update-services.sonos.com
+update-firmware.sonos.com
