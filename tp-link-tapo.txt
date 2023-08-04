@@ -1,0 +1,7 @@
+euw1-app-tapo-care.i.tplinknbu.com
+euw1-app-cloudgateway.iot.i.tplinknbu.com
+analytics.tplinkcloud.com
+n-wap-gw.tplinkcloud.com
+n-device-api.tplinkcloud.com
+ie-stun.tplinkcloud.com
+n-oauth.tplinkcloud.com
