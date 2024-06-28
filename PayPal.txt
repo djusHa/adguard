@@ -1,0 +1,1 @@
+https://c.paypal.com/r/v1/device/client-metadata
